@@ -7,12 +7,7 @@
 Atualmente estou aprendendo sobre:
 - **Django**
 - **Html**
-
-## 📊 Minhas Estatísticas no GitHub
-<p align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=RyanPAlvim&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RyanPAlvim&layout=compact&langs_count=7&theme=dracula"/>
-</p>
+![Animação legal](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
 
 ## 🔧 Tecnologias & Ferramentas
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
