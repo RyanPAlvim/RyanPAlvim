@@ -1,16 +1,20 @@
-## Hi there 👋
+# Olá! 👋 Bem-vindo!
 
-<!--
-**RyanPAlvim/RyanPAlvim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Iniciando na área e buscando experiência e adquirir conhecimento.
 
-Here are some ideas to get you started:
+## 🔧 Tecnologias & Ferramentas
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![Python](https://img.shields.io/badge/-Python-FFD43B?style=flat-square&logo=python&logoColor=blue)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 O que estou aprendendo?
+Atualmente estou aprendendo sobre:
+- **Django**
+- **Html**
+
+## 📊 Minhas Estatísticas no GitHub
+<p align="center">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=RyanPAlvim&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RyanPAlvim&layout=compact&langs_count=7&theme=dracula"/>
+</p>
