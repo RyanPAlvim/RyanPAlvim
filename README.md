@@ -10,7 +10,7 @@ Atualmente estou aprendendo sobre:
 - **C++**
   
  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
-![Animação Profissional](https://media.giphy.com/media/l0MYt5jPR6Qz5YpgI/giphy.gif)
+![Animação Profissional](https://media.giphy.com/media/xUOxfp4m5dxWEjUbAe/giphy.gif)
  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
 
 ## 🔧 Tecnologias & Ferramentas
