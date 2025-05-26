@@ -1,13 +1,13 @@
 # Olá! 👋 Bem-vindo!
 
-📖 - Iniciando na área e buscando experiência e adquirir conhecimento.
-🐍 - Principal linguagem: Python.
+📖 - Cursando Ciência da computação. Atualmente no segundo período.
+🤝 - Busco oportunidades para elevar o aprendizado.
 
 ## 🌱 O que estou aprendendo?
 Atualmente estou aprendendo sobre:
-- **Django**
-- **Html**
-- **C++**
+- **PHP**
+- **SQL**
+- **MVC**
   
  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
  
