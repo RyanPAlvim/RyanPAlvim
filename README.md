@@ -1,7 +1,7 @@
 # Olá! 👋 Bem-vindo!
 
-📖 - Cursando Ciência da computação. Atualmente no segundo período.
-🤝 - Busco oportunidades para elevar o aprendizado.
+<p>📖 - Cursando Ciência da computação. Atualmente no segundo período.</p>
+<p>🤝 - Busco oportunidades para elevar o aprendizado.</p>
 
 ## 🌱 O que estou aprendendo?
 Atualmente estou aprendendo sobre:
