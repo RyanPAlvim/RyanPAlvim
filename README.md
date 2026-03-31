@@ -30,4 +30,23 @@
 
 ***
  
-![Animação Profissional](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Animação Profissional" />
+</div>
+
+***
+
+<div align="center">
+  <a href="mailto:ryancdaco@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" height="40">
+  </a>
+  <a href="https://wa.me/5532988308088" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Telefone" height="40">
+  </a>
+  <a href="https://linkedin.com/in/ryan-alvim-803131373/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="40">
+  </a>
+  <a href="https://instagram.com/ryan_alvim84/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" height="40">
+  </a>
+</div>
