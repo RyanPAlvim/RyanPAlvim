@@ -1,6 +1,6 @@
 # Bem-vindo! 👋
 
-<h3>📖 - Me chamo Ryan, sou discente de Ciência da Computação pela UFJF </h3>
+<h3>📖 - Me chamo Ryan, sou discente de Ciência da Computação pela UFJF, atualmente no 4º período. </h3>
 
 ***
 
